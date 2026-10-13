@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment and secrets
+.venv/
+.env
+.env.*
+!.env.example
+
+# Generated SOC data
+logs/generated/
+data/processed/
+alerts/raw/
+alerts/enriched/
+alerts/ai_triaged/
+reports/
+
+# Local development
+.streamlit/secrets.toml
+.DS_Store
