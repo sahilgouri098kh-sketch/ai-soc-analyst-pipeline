@@ -172,3 +172,18 @@ Cybersecurity Learner | Aspiring SOC Analyst | Blue Team
 - **GitHub:** [sahilgouri098kh-sketch](https://github.com/sahilgouri098kh-sketch)
 
 Focused on SOC operations, security monitoring, detection engineering, threat intelligence, and incident response.
+
+
+## Project Screenshots
+
+### SOC Dashboard
+![SOC Dashboard](Screenshot_2026-10-13_22_23_23.png)
+
+### Security Event Analysis
+![Security Event Analysis](Screenshot_2026-10-13_22_23_28.png)
+
+### Alert Detection Results
+![Alert Detection Results](Screenshot_2026-10-13_22_23_38.png)
+
+### Test Results
+![Test Results](Screenshot_2026-10-13_22_23_41.png)
